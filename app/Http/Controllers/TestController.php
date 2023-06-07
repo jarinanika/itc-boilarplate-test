@@ -9,5 +9,6 @@ class TestController extends Controller
     public function index()
     {
         echo "Hello";
+        echo '\n World';
     }
 }
